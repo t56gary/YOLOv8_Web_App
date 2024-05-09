@@ -20,8 +20,8 @@ This project integrates a FastAPI backend with a Streamlit frontend to create a 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourrepository/yourproject.git
-   cd yourproject
+   git clone https://github.com/t56gary/YOLOv8_Web_App
+   cd YOLOv8_Web_App
 2. **Install Required Libraries**
    ```bsah
    pip install fastapi uvicorn streamlit ultralytics[aio] pydantic aiofiles
